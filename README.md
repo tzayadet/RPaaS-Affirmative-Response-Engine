@@ -1,36 +1,43 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/WEB_EXPERIMENT-RPAAS_AFFIRMATIVE_ENGINE-101010?style=for-the-badge&labelColor=050805&color=00FF41" alt="RPaaS"/>
+  <img src="https://img.shields.io/badge/HTML_CSS_JS-MICROINTERACTION-101010?style=for-the-badge&logo=javascript&logoColor=00FF41" alt="JavaScript"/>
+</p>
+
 # RPaaS · Affirmative Response Engine
 
-Pequeña aplicación web experimental que genera respuestas afirmativas de estilo operativo mediante una selección aleatoria de frases y un efecto de escritura progresiva.
+Small experimental web application that generates affirmative, operations-style responses from a predefined phrase set, with a progressive typewriter effect.
 
-**Demo:** https://tzayadet.github.io/RPaaS-Affirmative-Response-Engine/  
-**Código:** https://github.com/tzayadet/RPaaS-Affirmative-Response-Engine
+<p align="center">
+  <a href="https://tzayadet.github.io/RPaaS-Affirmative-Response-Engine/"><strong>LIVE DEMO ↗</strong></a> ·
+  <a href="https://github.com/tzayadet/RPaaS-Affirmative-Response-Engine"><strong>SOURCE CODE</strong></a>
+</p>
 
-## Funcionalidades
+## Features
 
-- Generación aleatoria de respuestas predefinidas.
-- Efecto de escritura progresiva.
-- Copia del texto generado al portapapeles.
-- Interfaz minimalista de estética terminal.
+- Random selection from predefined responses.
+- Progressive typewriter effect.
+- Copy generated text to the clipboard.
+- Minimal terminal-inspired interface.
 
-## Uso
+## Use it
 
-Abre la [demo](https://tzayadet.github.io/RPaaS-Affirmative-Response-Engine/) y utiliza los controles de generación y copia.
+Open the [live demo](https://tzayadet.github.io/RPaaS-Affirmative-Response-Engine/) and use the generation and copy controls.
 
-## Tecnologías
+## Technology
 
 - HTML5
 - CSS3
 - JavaScript
-- Clipboard API del navegador
+- Browser Clipboard API
 
-## Alcance
+## Scope
 
-Proyecto experimental de interfaz y microinteracción. Las respuestas proceden de un conjunto de textos definido en el propio código; no utiliza un modelo de IA ni un servicio externo de generación.
+Interface and microinteraction experiment. Responses come from a phrase set defined in the source code; the application does not use an AI model or external generation service.
 
-## Despliegue
+## Deployment
 
-Sitio estático publicado mediante GitHub Pages.
+Static website published through GitHub Pages.
 
-## Licencia
+## License
 
-Consulta [LICENSE](LICENSE).
+See [LICENSE](LICENSE).
